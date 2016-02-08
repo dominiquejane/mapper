@@ -1,0 +1,4 @@
+node_modules
+Secrets
+database.js
+npm-debug.log
